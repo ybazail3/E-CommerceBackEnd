@@ -1,10 +1,13 @@
 # E-Commerce Back End
 
 ## Description
-    In this app you will be provided with starter code. You will need to be able to POST, PUT and DELETE for products, categories and tags. Product belonga to Category and Category has many Product models. Product belongs to many Tags models and Tag belongs to many Product. 
-    You will use Express.js API to sequalize and interact with a MySQL database. You are creating a back-end app for a manager at an internet retail company.
+In this app you will be provided with starter code. You will need to be able to POST, PUT and DELETE for products, categories and tags. Product belonga to Category and Category has many Product models. Product belongs to many Tags models and Tag belongs to many Product. You will use Express.js API to sequalize and interact with a MySQL database. You are creating a back-end app for a manager at an internet retail company.
 
 ## Demo 
+
+
+https://user-images.githubusercontent.com/110190724/202053406-5cadde08-2e4d-4131-9ddb-e2a407a93333.mp4
+
 
 
 ## Prerequisites
